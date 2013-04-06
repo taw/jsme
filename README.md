@@ -33,7 +33,7 @@ Or:
 
 6b. Set up X server to use /dev/jsme
 
-gpm-js, install and uninstal are simple helper scripts,
+gpm-js, install and uninstall are simple helper scripts,
 not very useful.
 
 Note
