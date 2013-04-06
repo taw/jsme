@@ -3,6 +3,12 @@ jsme
 
 Joystick Mouse Emulation
 
+Description
+===========
+
+Daemon which translate stream of joystick events (read = output from /dev/js0) to
+stream of MouseSystems events (read = input readable by gsm and/or X)
+
 Installation
 ============
 Because there are only two users of jsme as for this date,
